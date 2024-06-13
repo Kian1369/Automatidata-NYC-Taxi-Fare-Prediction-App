@@ -1,5 +1,9 @@
 # Automatidata: NYC Taxi Fare Prediction App
 
+## Note: 
+
+The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
+
 ## Project Overview
 
 In this project, as a data professional at Automatidata, I collaborated with the New York City Taxi and Limousine Commission (TLC) to develop an app that estimates taxi fares for riders before their journey. This project aims to utilize the vast amount of data collected from the NYC area to create a predictive model for taxi fares.
