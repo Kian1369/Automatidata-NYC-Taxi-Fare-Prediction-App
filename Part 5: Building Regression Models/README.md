@@ -71,3 +71,6 @@ The project follows the PACE (Plan, Analyze, Construct, Execute) framework to en
 
 The MLR model provides a sound framework for predicting taxi fares. By leveraging this model, the NYC TLC can develop an app to estimate fares, enhancing the rider experience and providing valuable insights for future improvements.
 
+
+### Executive Summary:
+![Executive Summary](Course%205%20Automatidata%20Executive%20Summary.png)
