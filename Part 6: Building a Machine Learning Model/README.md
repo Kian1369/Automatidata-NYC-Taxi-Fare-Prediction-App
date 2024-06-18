@@ -76,4 +76,4 @@ The machine learning models developed in this project provide a robust framework
 
 
 ### Model Summary
-![Model Summary](Course 6 Automatidata Executive Summary.png)
+![Model Summary](Course%206%20Automatidata%20Executive%20Summary.png)
