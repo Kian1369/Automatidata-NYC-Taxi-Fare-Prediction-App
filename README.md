@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the AutomatiData project! This project involves developing an application for the New York City Taxi and Limousine Commission (TLC) that allows riders to estimate taxi fares in advance. The project is divided into six comprehensive parts, each focusing on different aspects of data analysis and machine learning. 
+Welcome to the AutomatiData project! This project was part of the "Google Advanced Data Analytics" certificate that I completed on June 2024. This project involves developing an application for the New York City Taxi and Limousine Commission (TLC) that allows riders to estimate taxi fares in advance. The project is divided into six comprehensive parts, each focusing on different aspects of data analysis and machine learning. 
 
 ## Project Goals
 
@@ -124,20 +124,9 @@ The primary goal of this project is to create a robust model that predicts taxi 
 - The model can be used to estimate fares and predict tipping behavior, enhancing driver service strategies and rider satisfaction.
 - Future improvements include collecting more granular data and refining models for higher accuracy.
 
-### Visual Summaries
-
-#### EDA Summary
-![EDA Summary](Course%203%20Automatidata%20Executive%20Summary.png)
-
-#### Regression Model Summary
-![Model Summary](Course%205%20Automatidata%20Executive%20Summary.png)
-
-#### Machine Learning Model Summary
-![Model Summary](Course%206%20Automatidata%20Executive%20Summary.png)
-
 ## Conclusion
 
-This project demonstrates the power of data analytics and machine learning in solving real-world problems. By following a structured approach, we successfully developed a model that helps NYC TLC riders estimate fares and predict tipping behavior, providing valuable insights for both riders and drivers.
+This project demonstrates the power of data analytics and machine learning in solving real-world problems. By following a structured approach, I successfully developed a model that helps NYC TLC riders estimate fares and predict tipping behavior, providing valuable insights for both riders and drivers.
 
 ## Repository Structure
 
@@ -147,10 +136,8 @@ This project demonstrates the power of data analytics and machine learning in so
 - **Part 4:** Statistical Testing
 - **Part 5:** Regression Models
 - **Part 6:** Machine Learning Models
-
-Feel free to explore each part of the project for detailed insights and code implementations. For any queries or discussions, please open an issue or contact me directly.
-
+- 
 ---
 
-Thank you for visiting the AutomatiData project repository!
+Thank you for visiting my AutomatiData project repository!
 
