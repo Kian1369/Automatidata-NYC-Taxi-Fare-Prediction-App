@@ -62,3 +62,7 @@ The project follows the PACE (Plan, Analyze, Construct, Execute) framework to en
 ### Conclusion
 
 The statistical analysis demonstrated a significant difference in fare amounts between credit card and cash payments, suggesting that payment type impacts fare amount. Based on this finding, encouraging credit card payments could be a strategic approach to increase revenue for taxi drivers.
+
+
+### Executive Summary:
+![Executive Summary](Course%204%20Automatidata%20Executive%20Summary.png)
