@@ -74,3 +74,6 @@ The project follows the PACE (Plan, Analyze, Construct, Execute) framework to en
 
 The machine learning models developed in this project provide a robust framework for predicting generous tippers among NYC TLC riders. By leveraging these models, the NYC TLC can offer insights to taxi drivers, enhancing their service strategies and potentially increasing their earnings through better anticipation of tipping behavior. Future improvements include collecting more granular data and further model refinement.
 
+
+### Model Summary
+![Model Summary](Course 6 Automatidata Executive Summary.png)
