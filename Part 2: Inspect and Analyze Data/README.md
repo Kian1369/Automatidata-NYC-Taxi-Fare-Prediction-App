@@ -61,4 +61,9 @@ The end-of-course project in Course 2 focuses on understanding the data needed f
 
 ### Conclusion
 
-This part of the project focused on preparing and inspecting the dataset to ensure it is ready for analysis. The next steps involve deeper investigation of specific variables and preparation for visualizations and statistical testing.
+This part of the project focused on preparing and inspecting the dataset to ensure it is ready for analysis. The next steps involve a deeper investigation of specific variables and preparation for visualizations and statistical testing.
+
+
+### Executive Summary of this Part:
+
+![Executive Summary](Course 2 Automatidata Executive Summary.png)
