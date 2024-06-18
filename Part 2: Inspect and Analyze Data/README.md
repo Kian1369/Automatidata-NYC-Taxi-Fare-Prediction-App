@@ -65,5 +65,4 @@ This part of the project focused on preparing and inspecting the dataset to ensu
 
 
 ### Executive Summary:
-
-![Executive Summary](Course 2 Automatidata Executive Summary.png)
+![Executive Summary](Course%202%20Automatidata%20Executive%20Summary.png)
