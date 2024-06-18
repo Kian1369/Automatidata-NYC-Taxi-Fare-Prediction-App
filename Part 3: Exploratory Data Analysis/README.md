@@ -45,3 +45,7 @@ The end-of-course project in Course 3 emphasizes the ability to use exploratory 
 - **Further Analysis:** I will continue refining the data and visualizations to enhance model accuracy and insight clarity.
 
 By completing this part of the project, I gained a solid foundation in conducting EDA, an essential skill for any data professional. The visualizations and insights derived from this analysis will be crucial in making data-driven decisions and advancing to the next phase of the project.
+
+
+### Executive Summary:
+![Executive Summary](Course%203%20Automatidata%20Executive%20Summary.png)
