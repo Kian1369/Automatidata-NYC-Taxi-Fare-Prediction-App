@@ -136,7 +136,7 @@ This project demonstrates the power of data analytics and machine learning in so
 - **Part 4:** Statistical Testing
 - **Part 5:** Regression Models
 - **Part 6:** Machine Learning Models
-- 
+
 ---
 
 Thank you for visiting my AutomatiData project repository!
