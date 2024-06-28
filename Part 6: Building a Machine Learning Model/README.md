@@ -32,7 +32,7 @@ In Course 6, the focus is on building a machine learning model to predict whethe
 - **Objective:** Assess the performance and reliability of the machine learning models.
 - **Tasks:**
   - Compute key metrics such as precision, recall, F1 score, and accuracy.
-  - Analyze the results to determine the best performing model.
+  - Analyze the results to determine the best-performing model.
 
 #### Part 4: Insights and Recommendations
 
