@@ -1,5 +1,7 @@
 # AutomatiData: NYC Taxi Fare Estimator Project
 
+![Taxi](assets/img/Taxi 3.jpg)
+
 ## Overview
 
 Welcome to the AutomatiData project! This project was part of the "Google Advanced Data Analytics" certificate that I completed on June 2024. This project involves developing an application for the New York City Taxi and Limousine Commission (TLC) that allows riders to estimate taxi fares in advance. The project is divided into six comprehensive parts, each focusing on different aspects of data analysis and machine learning. 
