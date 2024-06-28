@@ -70,8 +70,8 @@ The primary goal of this project is to create a robust model that predicts taxi 
 ### Tasks
 
 - Perform hypothesis testing to validate assumptions.
-- Analyze statistical significance of key variables.
-- Ensure the data meets necessary assumptions for modeling.
+- Analyze the statistical significance of key variables.
+- Ensure the data meets the necessary assumptions for modeling.
 
 ### Deliverables
 
