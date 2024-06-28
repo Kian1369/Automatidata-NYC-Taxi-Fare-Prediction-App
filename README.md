@@ -1,6 +1,6 @@
 # AutomatiData: NYC Taxi Fare Estimator Project
 
-![Taxi](assets/img/Taxi 3.jpg)
+![Taxi 3](assets/img/Taxi 3.jpg)
 
 ## Overview
 
